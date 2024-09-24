@@ -19,7 +19,7 @@ export function BlogP5() {
                     In conclusion, property insurance is an indispensable tool for mitigating risks and securing your financial future. Whether for your home or business, investing in a robust property insurance policy is a prudent step to safeguard your assets and ensure long-term stability.
 
                 </p>
-                <p class="blogfooter">Written by <span class="by-name">CHATGPT</span> on <span class="date">25/05/23</span></p>
+                <p class="blogfooter">Written by <span class="by-name">The_Silent_Writer</span> on <span class="date">25/05/23</span></p>
             </div>
             <Foot />
         </div>

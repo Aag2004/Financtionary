@@ -28,7 +28,7 @@ export function BlogP1() {
                     accessibility and efficiency.
 
                 </p>
-                <p class="blogfooter">Written by <span class="by-name">CHATGPT</span> on <span class="date">25/05/23</span></p>
+                <p class="blogfooter">Written by <span class="by-name">The_Silent_Writer</span> on <span class="date">25/05/23</span></p>
             </div>
             <Foot />
         </div>
